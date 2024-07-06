@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\downloads\\7-2009\\GhostShadow\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2DE4517-DDE6-4170-9FEB-32A0C7DF4E21}|GhostShadow.csproj|D:\\downloads\\7-2009\\GhostShadow\\playbackentercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2DE4517-DDE6-4170-9FEB-32A0C7DF4E21}|GhostShadow.csproj|solutionrelative:playbackentercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2DE4517-DDE6-4170-9FEB-32A0C7DF4E21}|GhostShadow.csproj|d:\\downloads\\7-2009\\ghostshadow\\win32.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2DE4517-DDE6-4170-9FEB-32A0C7DF4E21}|GhostShadow.csproj|solutionrelative:win32.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2DE4517-DDE6-4170-9FEB-32A0C7DF4E21}|GhostShadow.csproj|D:\\downloads\\7-2009\\GhostShadow\\playbackactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2DE4517-DDE6-4170-9FEB-32A0C7DF4E21}|GhostShadow.csproj|solutionrelative:playbackactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2DE4517-DDE6-4170-9FEB-32A0C7DF4E21}|GhostShadow.csproj|D:\\downloads\\7-2009\\GhostShadow\\playbackkeyboardevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2DE4517-DDE6-4170-9FEB-32A0C7DF4E21}|GhostShadow.csproj|solutionrelative:playbackkeyboardevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2DE4517-DDE6-4170-9FEB-32A0C7DF4E21}|GhostShadow.csproj|D:\\downloads\\7-2009\\GhostShadow\\playbackmainparsexml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2DE4517-DDE6-4170-9FEB-32A0C7DF4E21}|GhostShadow.csproj|solutionrelative:playbackmainparsexml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2DE4517-DDE6-4170-9FEB-32A0C7DF4E21}|GhostShadow.csproj|D:\\downloads\\7-2009\\GhostShadow\\iehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2DE4517-DDE6-4170-9FEB-32A0C7DF4E21}|GhostShadow.csproj|solutionrelative:iehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2DE4517-DDE6-4170-9FEB-32A0C7DF4E21}|GhostShadow.csproj|D:\\downloads\\7-2009\\GhostShadow\\monitorresolutionwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2DE4517-DDE6-4170-9FEB-32A0C7DF4E21}|GhostShadow.csproj|solutionrelative:monitorresolutionwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2DE4517-DDE6-4170-9FEB-32A0C7DF4E21}|GhostShadow.csproj|D:\\downloads\\7-2009\\GhostShadow\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2DE4517-DDE6-4170-9FEB-32A0C7DF4E21}|GhostShadow.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2DE4517-DDE6-4170-9FEB-32A0C7DF4E21}|GhostShadow.csproj|D:\\downloads\\7-2009\\GhostShadow\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2DE4517-DDE6-4170-9FEB-32A0C7DF4E21}|GhostShadow.csproj|solutionrelative:mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2DE4517-DDE6-4170-9FEB-32A0C7DF4E21}|GhostShadow.csproj|D:\\downloads\\7-2009\\GhostShadow\\validatexml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2DE4517-DDE6-4170-9FEB-32A0C7DF4E21}|GhostShadow.csproj|solutionrelative:validatexml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayBackEnterControl.cs",
+              "DocumentMoniker": "D:\\downloads\\7-2009\\GhostShadow\\PlayBackEnterControl.cs",
+              "RelativeDocumentMoniker": "PlayBackEnterControl.cs",
+              "ToolTip": "D:\\downloads\\7-2009\\GhostShadow\\PlayBackEnterControl.cs",
+              "RelativeToolTip": "PlayBackEnterControl.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAgwCEAAAB6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-07-08T00:16:17.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\downloads\\7-2009\\GhostShadow\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "D:\\downloads\\7-2009\\GhostShadow\\MainForm.cs",
+              "RelativeToolTip": "MainForm.cs",
+              "ViewState": "AQIAAMYGAAAAAAAAAAAUwM8GAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2022-07-07T23:42:24.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ValidateXML.cs",
+              "DocumentMoniker": "D:\\downloads\\7-2009\\GhostShadow\\ValidateXML.cs",
+              "RelativeDocumentMoniker": "ValidateXML.cs",
+              "ToolTip": "D:\\downloads\\7-2009\\GhostShadow\\ValidateXML.cs",
+              "RelativeToolTip": "ValidateXML.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAADUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-07-07T23:49:02.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayBackActions.cs",
+              "DocumentMoniker": "D:\\downloads\\7-2009\\GhostShadow\\PlayBackActions.cs",
+              "RelativeDocumentMoniker": "PlayBackActions.cs",
+              "ToolTip": "D:\\downloads\\7-2009\\GhostShadow\\PlayBackActions.cs",
+              "RelativeToolTip": "PlayBackActions.cs",
+              "ViewState": "AQIAADUCAAAAAAAAAAAqwDcCAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-07-07T23:44:58.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Win32.cs",
+              "DocumentMoniker": "D:\\downloads\\7-2009\\GhostShadow\\Win32.cs",
+              "RelativeDocumentMoniker": "Win32.cs",
+              "ToolTip": "D:\\downloads\\7-2009\\GhostShadow\\Win32.cs",
+              "RelativeToolTip": "Win32.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-07-07T23:44:36.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "D:\\downloads\\7-2009\\GhostShadow\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "MainForm.Designer.cs",
+              "ToolTip": "D:\\downloads\\7-2009\\GhostShadow\\MainForm.Designer.cs",
+              "RelativeToolTip": "MainForm.Designer.cs",
+              "ViewState": "AQIAALMDAAAAAAAAAAArwL0DAABuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2022-07-08T00:20:43.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayBackMainParseXML.cs",
+              "DocumentMoniker": "D:\\downloads\\7-2009\\GhostShadow\\PlayBackMainParseXML.cs",
+              "RelativeDocumentMoniker": "PlayBackMainParseXML.cs",
+              "ToolTip": "D:\\downloads\\7-2009\\GhostShadow\\PlayBackMainParseXML.cs",
+              "RelativeToolTip": "PlayBackMainParseXML.cs",
+              "ViewState": "AQIAAEoBAAAAAAAAAADgv1oBAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-07-08T05:34:44.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayBackKeyBoardEvents.cs",
+              "DocumentMoniker": "D:\\downloads\\7-2009\\GhostShadow\\PlayBackKeyBoardEvents.cs",
+              "RelativeDocumentMoniker": "PlayBackKeyBoardEvents.cs",
+              "ToolTip": "D:\\downloads\\7-2009\\GhostShadow\\PlayBackKeyBoardEvents.cs",
+              "RelativeToolTip": "PlayBackKeyBoardEvents.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAD4v0QAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-07-07T23:45:29.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IEHandler.cs",
+              "DocumentMoniker": "D:\\downloads\\7-2009\\GhostShadow\\IEHandler.cs",
+              "RelativeDocumentMoniker": "IEHandler.cs",
+              "ToolTip": "D:\\downloads\\7-2009\\GhostShadow\\IEHandler.cs",
+              "RelativeToolTip": "IEHandler.cs",
+              "ViewState": "AQIAALMAAAAAAAAAAAAQwLcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-07-07T23:18:32.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MonitorResolutionWriter.cs",
+              "DocumentMoniker": "D:\\downloads\\7-2009\\GhostShadow\\MonitorResolutionWriter.cs",
+              "RelativeDocumentMoniker": "MonitorResolutionWriter.cs",
+              "ToolTip": "D:\\downloads\\7-2009\\GhostShadow\\MonitorResolutionWriter.cs",
+              "RelativeToolTip": "MonitorResolutionWriter.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAUwCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-07-08T00:21:18.769Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
